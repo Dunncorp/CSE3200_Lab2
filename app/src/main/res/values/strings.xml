@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">quiz_app_lab2</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="done_button">Done</string>
+    <string name="back_to_quiz_button">Back to quiz</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="question_area">Question</string>
+    <string name="true_button">True</string>
+    <string name="false_button">False</string>
+    <string name="next_button">Next</string>
+    <string name="score">Score</string>
+
+    <string name="q1">There are eight seas</string>
+    <string name="q2">There are seven contintents</string>
+    <string name="q3">2+3 = 6</string>
+    <string name="q4">(equal? (cube 3) 27)</string>
+</resources>
